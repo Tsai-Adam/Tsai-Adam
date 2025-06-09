@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Yueh-Lin Tsai
+## 👋 Hi, I’m Yueh-Lin Tsai (Tsai-Adam)
 🎓 MSc Business Analytics @ Bayes Business School, City, University of London  
 🧠 Focus: Data Visualisation • NLP • Network Analytics • Deep Learning
 
