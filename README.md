@@ -45,6 +45,15 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/yuehlin-tsai)
 
 ---
+
+### 📈 GitHub Stats
+
+![Tsai-Adam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tsai-Adam&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsai-Adam&layout=compact)
+
+---
+
 💬 *Curious, analytical, and always exploring how data creates impact.*
 
 
