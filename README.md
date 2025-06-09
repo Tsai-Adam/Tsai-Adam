@@ -3,12 +3,6 @@
 🧠 Focus: Data Visualisation • NLP • Network Analytics • Deep Learning
 
 ---
-### 🛠 Skills
-
-- Python • R • SPSS (Amos) • VBA
-- Machine Learning • NLP • Structural Equation Modelling
-
----
 
 ### 🛠 Tech Stack
 
@@ -16,12 +10,14 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 #### 📊 Data Science & Analytics
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Quarto](https://img.shields.io/badge/Quarto-562457?style=for-the-badge&logo=quarto&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 ![SPSS](https://img.shields.io/badge/SPSS-003B73?style=for-the-badge&logo=ibm&logoColor=white)
 
 #### 🧰 IDEs & Tools
@@ -31,11 +27,26 @@
 
 ---
 
-### 📚 Interests
+### 🧠 Skills & Interests
 
-- Causal inference in business & education  
-- Text summarisation for feedback mining  
-- Social network analysis
+<table>
+<tr>
+<td>
+
+- 📈 Data Visualisation (Tableau, matplotlib, Quarto)  
+- 🤖 NLP & Sentiment Analysis (FinBERT, transformers)  
+- 🕸 Web Scraping (requests, BeautifulSoup)
+
+</td>
+<td>
+
+- 💻 HTML for structuring and parsing web content  
+- 🧪 SEM (SPSS Amos)  
+- 🕸 Network Analysis (organisations & communication systems)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -49,7 +60,6 @@
 ### 📈 GitHub Stats
 
 ![Tsai-Adam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tsai-Adam&show_icons=true&theme=default)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsai-Adam&layout=compact)
 
 ---
