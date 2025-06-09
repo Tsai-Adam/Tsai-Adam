@@ -18,12 +18,6 @@
 
 ---
 
-### 🌍 Languages
-
-English (Fluent), Mandarin (Native)
-
----
-
 ### 📫 Contact
 
 📧 [adam19971123@gmail.com](mailto:adam19971123@gmail.com)  
