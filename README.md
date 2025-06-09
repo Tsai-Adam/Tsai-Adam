@@ -58,9 +58,23 @@
 ---
 
 ### 📈 GitHub Stats
-
+<!--
 ![Tsai-Adam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tsai-Adam&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsai-Adam&layout=compact)
+-->
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Tsai-Adam&show_icons=true&theme=default" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsai-Adam&layout=compact" />
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
