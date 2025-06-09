@@ -1,14 +1,10 @@
-## Hi I'm Tsai-Adam 👋
-- 🔭 I work on data visualisation, NLP, and machine learning
-- 🧠 I’m interested in R, Python, and causal inference
-- 🌱 Currently learning Business analytics
-
 ## 👋 Hi, I’m Yueh-Lin Tsai
 🎓 MSc Business Analytics @ Bayes Business School, City, University of London  
 🧠 Focus: Data Visualisation • NLP • Network Analytics • Deep Learning
 
 ---
-## 🛠 Skills
+### 🛠 Skills
+
 - Python • R • SPSS (Amos) • VBA
 - Machine Learning • NLP • Structural Equation Modelling
 
