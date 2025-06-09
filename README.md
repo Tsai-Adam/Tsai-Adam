@@ -6,6 +6,7 @@
 ## 👋 Hi, I’m Yueh-Lin Tsai
 🎓 MSc Business Analytics @ Bayes Business School, City, University of London  
 🧠 Focus: Data Visualisation • NLP • Network Analytics • Deep Learning
+
 ---
 ## 🛠 Skills
 - Python • R • SPSS (Amos) • VBA
