@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi I'm Tsai-Adam 👋
+- 🔭 I work on data visualisation, NLP, and machine learning
+- 🧠 I’m interested in R, Python, and causal inference
+- 🌱 Currently learning advanced network analysis
+
 
 <!--
 **Tsai-Adam/Tsai-Adam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
