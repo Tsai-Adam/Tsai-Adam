@@ -42,7 +42,7 @@
 
 - 💻 HTML for structuring and parsing web content  
 - 🧪 SEM (SPSS Amos)  
-- 🕸 Network Analysis (organisations & communication systems)
+- 🕸 Network Analysis for organisations
 
 </td>
 </tr>
