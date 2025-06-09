@@ -3,8 +3,7 @@
 - 🧠 I’m interested in R, Python, and causal inference
 - 🌱 Currently learning Business analytics
 
-### 👋 Hi, I’m Yueh-Lin Tsai
-
+## 👋 Hi, I’m Yueh-Lin Tsai
 🎓 MSc Business Analytics @ Bayes Business School, City, University of London  
 🧠 Focus: Data Visualisation • NLP • Network Analytics • Deep Learning
 
