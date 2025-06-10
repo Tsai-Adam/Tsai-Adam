@@ -78,8 +78,6 @@
 
 ---
 
-💬 *Curious, analytical, and always exploring how data creates impact.*
-
 
 
 
