@@ -74,21 +74,6 @@
   </tr>
 </table>
 
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Tsai-Adam&show_icons=true&theme=default" alt="Tsai-Adam's GitHub Stats" style="max-width:100%;"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsai-Adam&layout=compact" alt="Tsai-Adam's Top Languages" style="max-width:100%;"/>
-    </td>
-  </tr>
-</table>
-
-
-
-
 ---
 
 
